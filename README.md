@@ -2,10 +2,6 @@
 # MATERIAL CHARACTERIZATION OF WIDE BAND GAP SEMICONDUCTORS
 
 <p align="center">
-  <img src="images/sample_structure.png" width="700">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Domain-Semiconductor%20Materials-blue">
   <img src="https://img.shields.io/badge/Application-HEMT-green">
   <img src="https://img.shields.io/badge/Material-AlGaN%2FGaN-orange">
@@ -83,19 +79,19 @@ XRD analysis was performed to investigate crystal quality and identify dominant 
 ### Full XRD Scan
 
 <p align="center">
-<img src="images/Full_XRD_Scan.png" width="700">
+<img src="images/Full_XRD_scan.png" width="700">
 </p>
 
 ### GaN (002) Gaussian Fit
 
 <p align="center">
-<img src="images/GaN_002_Gaussian_Fit.png" width="500">
+<img src="images/GaN_002_fit.png" width="500">
 </p>
 
 ### SiC (006) Gaussian Fit
 
 <p align="center">
-<img src="images/SiC_006_Gaussian_Fit.png" width="500">
+<img src="images/SiC_006_fit.png" width="500">
 </p>
 
 ---
@@ -117,7 +113,7 @@ XPS was used to determine elemental composition and chemical bonding information
 ### XPS Survey Spectrum
 
 <p align="center">
-<img src="images/XPS_Survey.png" width="700">
+<img src="images/XPS_survey.png" width="700">
 </p>
 
 ### Peak Table
@@ -131,7 +127,7 @@ XPS was used to determine elemental composition and chemical bonding information
 | Ga 2p | 1117.99 |
 
 <p align="center">
-<img src="images/Peak_Table.png" width="600">
+<img src="images/Peak_table.png" width="600">
 </p>
 
 ---
@@ -158,25 +154,19 @@ PL analysis was carried out to study optical transitions and determine material 
 ### Full PL Spectrum
 
 <p align="center">
-<img src="images/Full_PL_Spectrum.png" width="700">
+<img src="images/PL_full_spectrum.png" width="700">
 </p>
 
 ### GaN Peak Gaussian Fit
 
 <p align="center">
-<img src="images/GaN_Peak_Fit.png" width="500">
-</p>
-
-### Defect Peak Analysis
-
-<p align="center">
-<img src="images/Defect_Peak_Fit.png" width="500">
+<img src="images/GaN_peak_fit.png" width="500">
 </p>
 
 ### SiC Peak Analysis
 
 <p align="center">
-<img src="images/SiC_Peak_Fit.png" width="500">
+<img src="images/SiC_eak_fit.png" width="500">
 </p>
 
 ---
@@ -254,19 +244,19 @@ Peak intensity changes with temperature because of variations in carrier concent
 ### A1(LO) Peak Shift
 
 <p align="center">
-<img src="images/07_LO_Peak_Shift_vs_Temperature.png" width="600">
+<img src="images/07_A1_LO_Peak_Shift_vs_Temperature.png" width="600">
 </p>
 
 ### A1(LO) FWHM
 
 <p align="center">
-<img src="images/08_LO_FWHM_vs_Temperature.png" width="600">
+<img src="images/08_A1_LO_FWHM_vs_Temperature.png" width="600">
 </p>
 
 ### A1(LO) Intensity
 
 <p align="center">
-<img src="images/09_LO_Intensity_vs_Temperature.png" width="600">
+<img src="images/09_A1_LO_Intensity_vs_Temperature.png" width="600">
 </p>
 
 ---

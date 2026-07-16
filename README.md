@@ -1,10 +1,8 @@
-# Material-Characterization-of-Wide-Bandgap-Semiconductors
-Characterization of AlGaN/GaN wide bandgap semiconductor heterostructures on SiC substrates using XRD, XPS, Photoluminescence, and temperature-dependent Raman spectroscopy to study structural, optical, and chemical properties for HEMT applications.
 
 # MATERIAL CHARACTERIZATION OF WIDE BAND GAP SEMICONDUCTORS
 
 <p align="center">
-  <img src="sample_structure/AlGaN_GaN_HEMT_Structure.png" width="700">
+  <img src="images/sample_structure.png" width="700">
 </p>
 
 <p align="center">
@@ -42,7 +40,7 @@ The investigated sample consists of:
 The polarization mismatch at the AlGaN/GaN interface leads to the formation of a high mobility **Two Dimensional Electron Gas (2DEG)** channel which enables high-speed operation in HEMTs.
 
 <p align="center">
-  <img src="sample_structure/AlGaN_GaN_HEMT_Structure.png" width="700">
+  <img src="images/sample_structure.png" width="700">
 </p>
 
 ---
@@ -85,19 +83,19 @@ XRD analysis was performed to investigate crystal quality and identify dominant 
 ### Full XRD Scan
 
 <p align="center">
-<img src="results/XRD/Full_XRD_Scan.png" width="700">
+<img src="images/Full_XRD_Scan.png" width="700">
 </p>
 
 ### GaN (002) Gaussian Fit
 
 <p align="center">
-<img src="results/XRD/GaN_002_Gaussian_Fit.png" width="500">
+<img src="images/GaN_002_Gaussian_Fit.png" width="500">
 </p>
 
 ### SiC (006) Gaussian Fit
 
 <p align="center">
-<img src="results/XRD/SiC_006_Gaussian_Fit.png" width="500">
+<img src="images/SiC_006_Gaussian_Fit.png" width="500">
 </p>
 
 ---
@@ -119,7 +117,7 @@ XPS was used to determine elemental composition and chemical bonding information
 ### XPS Survey Spectrum
 
 <p align="center">
-<img src="results/XPS/XPS_Survey.png" width="700">
+<img src="images/XPS_Survey.png" width="700">
 </p>
 
 ### Peak Table
@@ -133,7 +131,7 @@ XPS was used to determine elemental composition and chemical bonding information
 | Ga 2p | 1117.99 |
 
 <p align="center">
-<img src="results/XPS/Peak_Table.png" width="600">
+<img src="images/Peak_Table.png" width="600">
 </p>
 
 ---
@@ -160,25 +158,25 @@ PL analysis was carried out to study optical transitions and determine material 
 ### Full PL Spectrum
 
 <p align="center">
-<img src="results/PL/Full_PL_Spectrum.png" width="700">
+<img src="images/Full_PL_Spectrum.png" width="700">
 </p>
 
 ### GaN Peak Gaussian Fit
 
 <p align="center">
-<img src="results/PL/GaN_Peak_Fit.png" width="500">
+<img src="images/GaN_Peak_Fit.png" width="500">
 </p>
 
 ### Defect Peak Analysis
 
 <p align="center">
-<img src="results/PL/Defect_Peak_Fit.png" width="500">
+<img src="images/Defect_Peak_Fit.png" width="500">
 </p>
 
 ### SiC Peak Analysis
 
 <p align="center">
-<img src="results/PL/SiC_Peak_Fit.png" width="500">
+<img src="images/SiC_Peak_Fit.png" width="500">
 </p>
 
 ---
@@ -220,55 +218,55 @@ Peak intensity changes with temperature because of variations in carrier concent
 ### Complete Temperature Scan
 
 <p align="center">
-<img src="results/Raman/01_All_Temperature_Raman_Spectra.png" width="700">
+<img src="images/01_All_Temperature_Raman_Spectra.png" width="700">
 </p>
 
 ### Stacked Raman Spectra
 
 <p align="center">
-<img src="results/Raman/02_Stacked_Raman_Spectra.png" width="700">
+<img src="images/02_Stacked_Raman_Spectra.png" width="700">
 </p>
 
 ### High vs Low Temperature Comparison
 
 <p align="center">
-<img src="results/Raman/03_High_vs_Low_Temperature_Comparison.png" width="700">
+<img src="images/03_High_vs_Low_Temperature_Comparison.png" width="700">
 </p>
 
 ### E2 Peak Shift
 
 <p align="center">
-<img src="results/Raman/04_E2_Peak_Shift_vs_Temperature.png" width="600">
+<img src="images/04_E2_Peak_Shift_vs_Temperature.png" width="600">
 </p>
 
 ### E2 FWHM
 
 <p align="center">
-<img src="results/Raman/05_E2_FWHM_vs_Temperature.png" width="600">
+<img src="images/05_E2_FWHM_vs_Temperature.png" width="600">
 </p>
 
 ### E2 Intensity
 
 <p align="center">
-<img src="results/Raman/06_E2_Intensity_vs_Temperature.png" width="600">
+<img src="images/06_E2_Intensity_vs_Temperature.png" width="600">
 </p>
 
 ### A1(LO) Peak Shift
 
 <p align="center">
-<img src="results/Raman/07_LO_Peak_Shift_vs_Temperature.png" width="600">
+<img src="images/07_LO_Peak_Shift_vs_Temperature.png" width="600">
 </p>
 
 ### A1(LO) FWHM
 
 <p align="center">
-<img src="results/Raman/08_LO_FWHM_vs_Temperature.png" width="600">
+<img src="images/08_LO_FWHM_vs_Temperature.png" width="600">
 </p>
 
 ### A1(LO) Intensity
 
 <p align="center">
-<img src="results/Raman/09_LO_Intensity_vs_Temperature.png" width="600">
+<img src="images/09_LO_Intensity_vs_Temperature.png" width="600">
 </p>
 
 ---
@@ -314,20 +312,7 @@ MATERIAL_CHARACTERIZATION_OF_WIDE_BAND_GAP_SEMICONDUCTORS
 │   ├── XRD/
 │   ├── XPS/
 │   └── Raman/
-│
-└── analysis_scripts/
 ```
-
----
-
-# Future Work
-
-- Hall Effect Measurements
-- AFM Surface Analysis
-- TEM Imaging
-- Device Fabrication and Electrical Characterization
-- TCAD Simulation of AlGaN/GaN HEMTs
-
 ---
 
 # Authors

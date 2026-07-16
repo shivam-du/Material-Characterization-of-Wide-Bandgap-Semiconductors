@@ -166,7 +166,7 @@ PL analysis was carried out to study optical transitions and determine material 
 ### SiC Peak Analysis
 
 <p align="center">
-<img src="images/SiC_eak_fit.png" width="500">
+<img src="images/SiC_peak_fit.png" width="500">
 </p>
 
 ---
